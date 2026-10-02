@@ -1,0 +1,13 @@
+{
+  "name": "pinocchio",
+  "description": "pinocchio, a Claude Code mod that counts an agent's lies",
+  "owner": {
+    "name": "salatmaster"
+  },
+  "plugins": [
+    {
+      "name": "pinocchio",
+      "source": "./"
+    }
+  ]
+}

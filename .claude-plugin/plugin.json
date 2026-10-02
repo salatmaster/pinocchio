@@ -1,0 +1,15 @@
+{
+  "name": "pinocchio",
+  "version": "0.1.0",
+  "description": "The nose grows when the agent lies: a model judges each turn for test cheats and unproven claims, and blocks nothing.",
+  "author": {
+    "name": "salatmaster"
+  },
+  "license": "MIT",
+  "keywords": [
+    "mod",
+    "honesty",
+    "tests",
+    "hooks"
+  ]
+}
